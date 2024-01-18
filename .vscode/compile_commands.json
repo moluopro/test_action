@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\MoLuo\\Desktop\\Gitee\\test_action",
+  "arguments": ["D:\\Cache\\VS\\IDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/fp:fast", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\test_action\\windows\\x64\\release\\src\\main.c.obj", "src\\main.c", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt", "-imsvc", "D:\\Cache\\VS\\IDE\\VC\\Tools\\MSVC\\14.36.32532\\include"],
+  "file": "src\\main.c"
+}]

@@ -1,4 +1,4 @@
-add_rules("mode.debug", "mode.release")
+add_rules("mode.release")
 
 target("test_action")
     set_kind("binary")
